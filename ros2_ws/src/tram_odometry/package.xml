@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>tram_odometry</name>
+  <version>1.0.0</version>
+  <description>
+    Backup (GNSS-free, IMU-free) speed and position estimation for a tram from driver
+    controller position and front/rear bogie speeds: nonlinear traction/brake model,
+    longitudinal dynamics, EKF with IMM-style slip/fault mode logic, route-map positioning.
+  </description>
+  <maintainer email="alexaidcrypto@gmail.com">Hackathon team</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>ament_index_cpp</depend>
+  <depend>nav_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>diagnostic_msgs</depend>
+  <depend>builtin_interfaces</depend>
+  <depend>tram_vehicle_msgs</depend>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>ros2bag</exec_depend>
+  <exec_depend>rosbag2_storage_default_plugins</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

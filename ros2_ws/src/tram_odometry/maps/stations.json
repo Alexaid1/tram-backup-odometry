@@ -1,0 +1,223 @@
+{
+ "route": "route_closed.json",
+ "stations": [
+  {
+   "s": 48.56016552913479,
+   "sigma": 0.5,
+   "count": 24,
+   "passes": 31,
+   "attendance": 0.7741935483870968
+  },
+  {
+   "s": 261.6616668897632,
+   "sigma": 0.5,
+   "count": 23,
+   "passes": 32,
+   "attendance": 0.71875
+  },
+  {
+   "s": 674.4301331410115,
+   "sigma": 0.5,
+   "count": 24,
+   "passes": 33,
+   "attendance": 0.7272727272727273
+  },
+  {
+   "s": 940.935626027489,
+   "sigma": 0.5,
+   "count": 10,
+   "passes": 33,
+   "attendance": 0.30303030303030304
+  },
+  {
+   "s": 1174.1837162335887,
+   "sigma": 0.5422592893463503,
+   "count": 7,
+   "passes": 33,
+   "attendance": 0.21212121212121213
+  },
+  {
+   "s": 1265.9473437657007,
+   "sigma": 0.5,
+   "count": 27,
+   "passes": 33,
+   "attendance": 0.8181818181818182
+  },
+  {
+   "s": 1827.7040264018547,
+   "sigma": 0.5,
+   "count": 32,
+   "passes": 34,
+   "attendance": 0.9411764705882353
+  },
+  {
+   "s": 1995.7788979771253,
+   "sigma": 0.5,
+   "count": 14,
+   "passes": 34,
+   "attendance": 0.4117647058823529
+  },
+  {
+   "s": 2258.4321944397025,
+   "sigma": 0.5,
+   "count": 31,
+   "passes": 34,
+   "attendance": 0.9117647058823529
+  },
+  {
+   "s": 4288.099632242158,
+   "sigma": 0.5,
+   "count": 13,
+   "passes": 34,
+   "attendance": 0.38235294117647056
+  },
+  {
+   "s": 4380.457866618499,
+   "sigma": 0.5,
+   "count": 27,
+   "passes": 34,
+   "attendance": 0.7941176470588235
+  },
+  {
+   "s": 4672.824321523844,
+   "sigma": 0.5,
+   "count": 16,
+   "passes": 34,
+   "attendance": 0.47058823529411764
+  },
+  {
+   "s": 4973.880631697359,
+   "sigma": 1.13484086243064,
+   "count": 8,
+   "passes": 33,
+   "attendance": 0.24242424242424243
+  },
+  {
+   "s": 5054.927767782503,
+   "sigma": 0.5,
+   "count": 18,
+   "passes": 33,
+   "attendance": 0.5454545454545454
+  },
+  {
+   "s": 5138.104954969689,
+   "sigma": 0.5179262104640645,
+   "count": 28,
+   "passes": 33,
+   "attendance": 0.8484848484848485
+  },
+  {
+   "s": 5385.878076522286,
+   "sigma": 0.5,
+   "count": 20,
+   "passes": 32,
+   "attendance": 0.625
+  },
+  {
+   "s": 5431.041274319177,
+   "sigma": 0.5,
+   "count": 20,
+   "passes": 33,
+   "attendance": 0.6060606060606061
+  },
+  {
+   "s": 5795.57180724964,
+   "sigma": 0.5,
+   "count": 20,
+   "passes": 34,
+   "attendance": 0.5882352941176471
+  },
+  {
+   "s": 5813.324225804661,
+   "sigma": 0.5,
+   "count": 15,
+   "passes": 34,
+   "attendance": 0.4411764705882353
+  },
+  {
+   "s": 6121.800637958842,
+   "sigma": 0.5,
+   "count": 29,
+   "passes": 34,
+   "attendance": 0.8529411764705882
+  },
+  {
+   "s": 8240.1202938211,
+   "sigma": 0.5,
+   "count": 36,
+   "passes": 33,
+   "attendance": 1.0909090909090908
+  },
+  {
+   "s": 8461.326202234683,
+   "sigma": 0.674386718653854,
+   "count": 13,
+   "passes": 33,
+   "attendance": 0.3939393939393939
+  },
+  {
+   "s": 8673.072997804265,
+   "sigma": 0.9601206609601635,
+   "count": 33,
+   "passes": 34,
+   "attendance": 0.9705882352941176
+  },
+  {
+   "s": 9159.624039910346,
+   "sigma": 0.6827684507984894,
+   "count": 17,
+   "passes": 33,
+   "attendance": 0.5151515151515151
+  },
+  {
+   "s": 9339.090462905442,
+   "sigma": 0.5015635502854493,
+   "count": 23,
+   "passes": 34,
+   "attendance": 0.6764705882352942
+  },
+  {
+   "s": 9560.05566334668,
+   "sigma": 0.5,
+   "count": 14,
+   "passes": 33,
+   "attendance": 0.42424242424242425
+  },
+  {
+   "s": 9815.660670782281,
+   "sigma": 0.5,
+   "count": 25,
+   "passes": 34,
+   "attendance": 0.7352941176470589
+  },
+  {
+   "s": 10235.86923906617,
+   "sigma": 0.5,
+   "count": 25,
+   "passes": 34,
+   "attendance": 0.7352941176470589
+  },
+  {
+   "s": 10456.138642850457,
+   "sigma": 0.5,
+   "count": 27,
+   "passes": 32,
+   "attendance": 0.84375
+  },
+  {
+   "s": 10573.200552887385,
+   "sigma": 0.5,
+   "count": 20,
+   "passes": 30,
+   "attendance": 0.6666666666666666
+  },
+  {
+   "s": 10936.59054764442,
+   "sigma": 0.5,
+   "count": 9,
+   "passes": 31,
+   "attendance": 0.2903225806451613
+  }
+ ],
+ "note": "repeatable stop locations (arc length on route_closed.json), built offline from training-run GNSS; used at runtime only when odometry reports standstill"
+}

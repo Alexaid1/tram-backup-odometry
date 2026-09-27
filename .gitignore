@@ -1,0 +1,31 @@
+# large inputs provided by the organisers (not part of the solution repository)
+dataset/data/
+dataset/data.zip
+check-code-with-bag/check-code/bags/
+*.db3
+# organiser notes not published
+Навигатор.txt
+tf антенн в base_link.txt
+
+# local harness run artefacts (colcon output, logs, copy of our package)
+check-code-with-bag/check-code/build/
+check-code-with-bag/check-code/install/
+check-code-with-bag/check-code/log/
+check-code-with-bag/check-code/harness_out/
+check-code-with-bag/check-code/src/tram_odometry/
+
+# colcon
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# local analysis caches / binaries
+tools/_cache/
+tools/_eval/
+tools/_bin/
+tools/_gen_msgs/
+tools/_rec_*/
+tools/_*.pkl
+tools/_*.log
+tools/_dbg*.py
+__pycache__/
